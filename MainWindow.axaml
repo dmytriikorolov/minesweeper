@@ -24,9 +24,9 @@
                         <Setter Property="Width"  Value="64"/>
                         <Setter Property="Height" Value="64"/>
 
-                        <Setter Property="Padding"         Value="0"/>
+                        <Setter Property="Padding" Value="0"/>
                         <Setter Property="BorderThickness" Value="1"/>
-                        <Setter Property="BorderBrush"     Value="#66000000"/>
+                        <Setter Property="BorderBrush" Value="#66000000"/>
                         <Setter Property="HorizontalContentAlignment" Value="Stretch"/>
                         <Setter Property="VerticalContentAlignment"   Value="Stretch"/>
 
